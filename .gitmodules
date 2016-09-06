@@ -1,0 +1,3 @@
+[submodule "laundryview_notification_script"]
+	path = laundryview_notification_script
+	url = https://github.com/kkleidal/LaundryView-Notification-Script.git
